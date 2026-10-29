@@ -1,0 +1,22 @@
+# Ren'Py compiled files
+*.rpyc
+*.rpymc
+
+# Ren'Py generated directories
+**/cache/
+**/saves/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated game distributions
+dist/
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
